@@ -1,1 +1,1 @@
-i am happy to deplo  such a simple thing
+i am happy to deploy  such a simple thing
